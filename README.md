@@ -1,6 +1,4 @@
 # SuspiciousTransactions
-
-## Table of Contents
 1. Data Modeling
 2. Data Analysis Part 1: SQL
 3. Data Analysis Part 2: Visual Analysis
