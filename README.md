@@ -11,4 +11,4 @@
 
 Create an entity relationship diagram (ERD) by inspecting the provided CSV files.
 
-  !(images/ERD.png)
+  ![](images/ERD.png)
