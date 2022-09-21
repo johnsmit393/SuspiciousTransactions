@@ -3,7 +3,6 @@
 2. Data Analysis Part 1: SQL
 3. Data Analysis Part 2: Visual Analysis
 4. Challenge
-5. Results
 
 ## Data Modeling
 
