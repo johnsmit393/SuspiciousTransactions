@@ -1,11 +1,11 @@
 # SuspiciousTransactions
 
 ## Table of Contents
-1. [Data Modeling](#data-modeling)
-2. [Data Analysis Part 1: SQL](#part-1)
-3. [Data Analysis Part 2: Visual Analysis](#part-2)
-4. [Challenge](#challenge)
-5. [Results](#results)
+1. Data Modeling
+2. Data Analysis Part 1: SQL
+3. Data Analysis Part 2: Visual Analysis
+4. Challenge
+5. Results
 
 ## Data Modeling
 
