@@ -9,6 +9,6 @@
 
 ## Data Modeling
 
-- [x] Create an entity relationship diagram (ERD) by inspecting the provided CSV files.
+Create an entity relationship diagram (ERD) by inspecting the provided CSV files.
 
   ![Data Model](images/ERD.png)
