@@ -25,3 +25,6 @@ Using hvPlot, create a line plot representing the time series of transactions ov
 
 Next, to better compare their patterns, create a single line plot that contains both card holders' trend data.  
 ![](images/combined_plot.png)
+
+Using Plotly Express, create a box plot, representing the expenditure data from January 2018 to June 2018 for cardholder ID 25.
+![](images/box_plot.png)
